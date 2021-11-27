@@ -7,6 +7,7 @@ public class git {
         System.out.println("aa");
         System.out.println("aa");
         System.out.println("aa");
+        System.out.println("hot-fix commit");
     }
 
 }
